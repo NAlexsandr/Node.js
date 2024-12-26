@@ -1,0 +1,16 @@
+{
+  "name": "init_example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "arithmetic_progression_2step5": "^1.0.0",
+    "uuid": "^11.0.3"
+  }
+}
