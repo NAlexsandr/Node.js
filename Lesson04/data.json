@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Alexandr",
+      "secondName": "Nikeshin",
+      "age": 52
+    },
+    {
+      "id": 2,
+      "firstName": "Konstantin",
+      "secondName": "Vaisberg",
+      "age": 54
+    }
+  ],
+  "uniqueID": 2
+}
